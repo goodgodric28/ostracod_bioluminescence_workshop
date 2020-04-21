@@ -1,4 +1,4 @@
-# Workshop on Bioluminescent Ostracods
+# Let it Glow: Bioluminescence in the Sea
 
 Co-designed by Johanna Cannon, Jessica Goodheart, Andrew Swafford, and Emily Lau
 
