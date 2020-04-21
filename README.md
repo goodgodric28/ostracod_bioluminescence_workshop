@@ -1,6 +1,6 @@
 # Let it Glow: Bioluminescence in the Sea
 
-Co-designed by Johanna Cannon, Jessica Goodheart, Andrew Swafford, and Emily Lau
+Co-designed by Johanna Cannon, Jessica Goodheart, Andrew Swafford, Emily Lau, and Bridget Vincent
 
 **NOTE:** This workshop was designed to be ~45 minutes, and presented to middle or high school students.
 
