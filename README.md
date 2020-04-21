@@ -14,3 +14,4 @@ Co-designed by Johanna Cannon, Jessica Goodheart, Andrew Swafford, and Emily Lau
 
 * presentation_materials/ - Powerpoint and detailed breakdown of presentation and activity
 
+Workshop developed in the Oakley Evolution Lab ([https://labs.eemb.ucsb.edu/oakley/todd/](https://labs.eemb.ucsb.edu/oakley/todd/) at UC Santa Barbara.
