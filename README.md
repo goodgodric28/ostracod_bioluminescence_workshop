@@ -15,4 +15,4 @@ Co-designed by Johanna Cannon, Jessica Goodheart, Andrew Swafford, Emily Lau, an
 * presentation_materials/ - Powerpoint and detailed breakdown of presentation and activity
 
 Workshop developed in the Oakley Evolution Lab ([https://labs.eemb.ucsb.edu/oakley/todd/](https://labs.eemb.ucsb.edu/oakley/todd/)) at UC Santa Barbara.
-This material is based upon work supported by the National Science Foundation under Grant Number (PRFB 1711201)
+This material is based upon work supported by the National Science Foundation under Grant Number PRFB 1711201.
