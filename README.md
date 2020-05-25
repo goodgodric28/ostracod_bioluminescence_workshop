@@ -14,6 +14,8 @@ Co-designed by Johanna Cannon, Jessica Goodheart, Andrew Swafford, Emily Lau, an
 
 * presentation_materials/ - Powerpoint and detailed breakdown of presentation and activity
 
+* illustrations/ - Available drawings of bioluminescent cephalopods in either .jpg or .png form
+
 Workshop developed in the Oakley Evolution Lab ([https://labs.eemb.ucsb.edu/oakley/todd/](https://labs.eemb.ucsb.edu/oakley/todd/)) at UC Santa Barbara.
 
 This material is based upon work supported by the National Science Foundation under Grant Number PRFB 1711201. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
